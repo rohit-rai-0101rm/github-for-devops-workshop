@@ -1,7 +1,7 @@
 def my_function():
     a = 5
     password="rohit123"
-    return a
+    return a+password
    
 
 my_function()
