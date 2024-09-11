@@ -1,6 +1,6 @@
 def my_function():
     """
-    this isa demo
+    this is a demo
     """
     a = 8
     return a
