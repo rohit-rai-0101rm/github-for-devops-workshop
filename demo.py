@@ -8,6 +8,7 @@ def my_function():
     """
     a = 8
     b=true
+    c=false
     password="rohit123"
     return a
 
