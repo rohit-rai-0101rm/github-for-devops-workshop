@@ -10,6 +10,7 @@ def my_function():
     b=true
     c=false
     password="1233343"
+    secret="wdwreewr"
     return a
 
 my_function()
