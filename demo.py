@@ -9,7 +9,7 @@ def my_function():
     a = 8
     b=true
     c=false
-    password="rohit123"
+    password="1233343"
     return a
 
 my_function()
